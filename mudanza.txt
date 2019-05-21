@@ -1,0 +1,4 @@
+llamar agencia
+coordinar precio, fecha y hora
+habilitar casa
+pagar precio
